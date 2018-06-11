@@ -56,8 +56,7 @@ end
 
 
 
-gem 'jquery-rails', '3.0.4'
-
+gem 'jquery-rails'
 
 
 
